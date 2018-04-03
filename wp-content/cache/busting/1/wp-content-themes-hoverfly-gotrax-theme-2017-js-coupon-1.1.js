@@ -1,0 +1,1 @@
+$coupon=jQuery(".js-coupon"),jQuery(".tfg-message").click(function(){$coupon.hasClass("js-coupon-hidden")?$coupon.removeClass("js-coupon-hidden"):$coupon.addClass("js-coupon-hidden")});

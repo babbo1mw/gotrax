@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Electric ATVs &#8211; GOTRAX</title>
+	<atom:link href="https://gotrax.com/product/electric-atvs/feed/" rel="self" type="application/rss+xml" />
+	<link>https://gotrax.com</link>
+	<description></description>
+	<lastBuildDate>Mon, 02 Apr 2018 23:30:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>ROVER Electric ATV</title>
+		<link>https://gotrax.com/shop/electric-atvs/rover-atv/</link>
+		<comments>https://gotrax.com/shop/electric-atvs/rover-atv/#comments</comments>
+		<pubDate>Tue, 27 Jun 2017 00:15:03 +0000</pubDate>
+		<dc:creator><![CDATA[The Firm Web]]></dc:creator>
+		
+		<guid isPermaLink="false">http://tfghoverfly.wpengine.com/?post_type=product&#038;p=797</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="https://gotrax.com/shop/electric-atvs/rover-atv/">ROVER Electric ATV</a> appeared first on <a rel="nofollow" href="https://gotrax.com">GOTRAX</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[
+<p>The post <a rel="nofollow" href="https://gotrax.com/shop/electric-atvs/rover-atv/">ROVER Electric ATV</a> appeared first on <a rel="nofollow" href="https://gotrax.com">GOTRAX</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://gotrax.com/shop/electric-atvs/rover-atv/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>
